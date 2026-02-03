@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vibhuti Jain 
+# Hi there 👋, I'm Vibhuti Jain
 
 💻 **Developer | DevOps Engineer | Cloud & Automation | CI/CD**  
 
